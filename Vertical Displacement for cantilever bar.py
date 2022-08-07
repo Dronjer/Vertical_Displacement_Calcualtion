@@ -22,6 +22,3 @@ for j in P:
         y = ((j*i**3)/6 + (j*l**3*i)/2 - (j*l**3)/3)*(1/(E*I))
         # The value of E and I also needed to be added
         print("The value for deflection is :", y)
-
-
-
